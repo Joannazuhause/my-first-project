@@ -1,7 +1,16 @@
-# my-first-project
+# My First Project
 
-Hi! I'm learning Linux and GitHub step by step 💪
+Hi! Im currently learning Linux and GitHub step by step 
 
-This is my first repository!
+## What Im learning
+- Linux basics
+- Git and GitHub
+- File organization
 
-This is updated in Lesson 3 
+## Project Structure
+- day1.md
+- day2.md
+- notes/
+
+## My Goal
+To become an IT professional and work in the tech industry.
