@@ -10,3 +10,20 @@ Even small progress is important. I don't need to be perfect, I just need to kee
 Next goal:
 - Try using Git on Linux
 - Start a simple coding project
+
+
+
+# Day 3 - Learning Developer Mindset
+
+## What I Learned
+- GitHub is used for tracking progress
+- Small steps matter
+
+## Reflection
+I realized that I don't need to be perfect. I just need to keep going.
+
+## Next Goal
+- Practice Git on Linux
+- Start coding soon
+
+**I will not give up **
