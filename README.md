@@ -10,6 +10,8 @@ Hi! Im currently learning Linux and GitHub step by step
 ## Project Structure
 - day1.md
 - day2.md
+- day3.md
+- day4.md
 - notes/
 
 ## My Goal
